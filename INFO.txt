@@ -1,0 +1,9 @@
+Download the following files. One is the menu-driven database program that we write in this module. The other is the database file maintained by this program.
+
+Download the file by clicking on it and saving it in your working directory for this course. If clicking opens it as a web page instead, simply save that webpage. In either case, the file will be downloaded with a large serial number in front of it to make it unique. Save the file without this pre-pendage. Please use the names given below to avoid confusion.
+
+The menu-driven database program that we write in this module.
+phones.py
+
+The database file for the menu-driven program, phones.py.
+myphones.csv
